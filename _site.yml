@@ -1,6 +1,6 @@
-name: "José Uribe-Salazar, PhD"
+name: "José Uribe-Salazar"
 navbar:
-  title: "José Uribe-Salazar"
+  title: "Main"
   left:
     - text: "Home"
       href: index.html
