@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "JMUS website"
 output: html_document
 ---
 
