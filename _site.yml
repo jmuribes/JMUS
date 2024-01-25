@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "José Uribe-Salazar, PhD"
 navbar:
-  title: "MyLabJournal"
+  title: "José Uribe-Salazar"
   left:
     - text: "Home"
       href: index.html
